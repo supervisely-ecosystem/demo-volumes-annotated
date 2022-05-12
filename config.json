@@ -1,0 +1,12 @@
+{
+  "name": "3D Slicer Volumes (Annotated)",
+  "description": "Sample volumes project with labels",
+  "type": "project",
+  "categories": [
+    "labeled data",
+    "semantic segmentation",
+    "volumes"
+  ],
+  "icon": "https://i.imgur.com/ceWEbO6.png",
+  "icon_cover": true
+}
