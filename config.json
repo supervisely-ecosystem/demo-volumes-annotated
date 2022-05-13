@@ -1,11 +1,11 @@
 {
-  "name": "3D Slicer Volumes (Annotated)",
-  "description": "Sample volumes project with labels",
+  "name": "Demo volumes (annotated)",
+  "description": "Demo project with dicom / nrrd volumes with labels",
   "type": "project",
   "categories": [
-    "labeled data",
-    "semantic segmentation",
-    "volumes"
+    "import",
+    "volumes",
+    "project"
   ],
   "icon": "https://i.imgur.com/ceWEbO6.png",
   "icon_cover": true
