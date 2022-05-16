@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "brain",
+            "shape": "bitmap",
+            "color": "#2B9217",
+            "geometry_config": {},
+            "id": 151376,
+            "hotkey": ""
+        },
+        {
+            "title": "lung",
+            "shape": "bitmap",
+            "color": "#BF18BF",
+            "geometry_config": {},
+            "id": 151375,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "volumes"
+}
