@@ -53,7 +53,7 @@ Included volumes:
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo_volumes_annotated.zip) (115,3 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo-volumes-annotated.zip) (115,3 MB).
 
 ## Statistics
 
