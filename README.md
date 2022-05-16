@@ -37,15 +37,15 @@ Included volumes:
     <tr style="width: 100%">
       <td>
         <b>CTACardio.nrrd</b>
-        <img src="https://i.imgur.com/spuVRGL.png" style="width:150%;"/>
+        <img src="https://i.imgur.com/ecapekB.png" style="width:150%;"/>
       </td>
       <td>
         <b>CTChest.nrrd</b>
-        <img src="https://i.imgur.com/OZ8xxQ0.png" style="width:150%;"/>
+        <img src="https://i.imgur.com/9VQNiLP.png" style="width:150%;"/>
       </td>
       <td>
         <b>MRHead.nrrd</b>
-        <img src="https://i.imgur.com/iycBr5i.png" style="width:150%;"/>
+        <img src="https://i.imgur.com/pJiT4og.png" style="width:150%;"/>
       </td>
     </tr>
   </table>
@@ -53,7 +53,7 @@ Included volumes:
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo_volumes.zip) (114,5 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo_volumes_annotated.zip) (115,3 MB).
 
 ## Statistics
 
