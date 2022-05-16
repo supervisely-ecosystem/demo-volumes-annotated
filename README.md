@@ -23,7 +23,7 @@
 Demo project with dicom / nrrd volumes with labels
 ## Overview 
 
-`demo_volumes` is an example project with 3 labeled volumes. 
+`demo_volumes_annotated` is an example project with 3 labeled volumes. 
 Volumes for this project were acquired via [3D Slicer](https://www.slicer.org/) application.
 
 
