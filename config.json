@@ -1,6 +1,6 @@
 {
-  "name": "Demo volumes (annotated)",
-  "description": "Demo project with dicom / nrrd volumes with labels",
+  "name": "Demo volumes with labels",
+  "description": "Project with labeled dicom and nrrd volumes",
   "type": "project",
   "categories": [
     "import",
