@@ -2,7 +2,7 @@
 
 <img src="media/eco.png" width="250" /> <br>
 
-<img src="media/logo.pngg" width="100"/> 
+<img src="media/logo.png" width="100"/> 
 
 # Demo Volumes Annotated  
 
